@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App01-Intent</string>
+    <string name="maincontent">Explicit Intent Example</string>
+</resources>
